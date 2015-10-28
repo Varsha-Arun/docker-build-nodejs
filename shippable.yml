@@ -1,2 +1,6 @@
 script:
   - true
+
+notifications:
+  email: 
+    varsha@shippable.com
